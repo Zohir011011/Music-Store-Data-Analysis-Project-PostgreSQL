@@ -38,7 +38,7 @@ Data Collection and Database Setup:
                         •	Determined the customer that has spent the most on music for each country.
 
 
-Analyzing the questions presented provides valuable insights that can benefit the music store's business in several ways:
+#### Analyzing the questions presented provides valuable insights that can benefit the music store's business in several ways:
               1. Easy Questions:
                         •	Identifying the Senior Most Employee: Recognizing the senior-most employee based on job title helps in acknowledging experience and expertise within the organization, fostering a culture of respect and mentorship.
                         •	Determining Countries with the Highest Number of Invoices: Understanding which countries generate the highest number of invoices enables targeted marketing efforts and resource allocation to maximize sales potential in those regions.
