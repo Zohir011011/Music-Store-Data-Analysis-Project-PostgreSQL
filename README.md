@@ -1,17 +1,17 @@
-                                                                        #Project Title: Music Store Data Analysis
+                                             # Project Title: Music Store Data Analysis
 
-###Introduction: This project involved analyzing a music store's dataset obtained from GitHub. The dataset comprised 11 tables capturing various aspects of the music store's operations, including sales, customers, employees, artists, albums, and tracks. Using PostgreSQL, a relational database was created to store and manage the dataset efficiently.
+### Introduction: This project involved analyzing a music store's dataset obtained from GitHub. The dataset comprised 11 tables capturing various aspects of the music store's operations, including sales, customers, employees, artists, albums, and tracks. Using PostgreSQL, a relational database was created to store and manage the dataset efficiently.
 
-#Keywords: SQL, PostgreSQL, Data Analysis, Music Store, Database Management, Business Intelligence, Decision-Making, Strategic Planning.
+# Keywords: SQL, PostgreSQL, Data Analysis, Music Store, Database Management, Business Intelligence, Decision-Making, Strategic Planning.
 
-###Objective: The primary objective of this project was to extract valuable insights from the music store's data to inform decision-making and strategic planning. The project involved addressing a series of questions categorized based on difficulty level, ranging from easy to hard. Various SQL functions and techniques were employed to analyze the data and derive meaningful conclusions.
+### Objective: The primary objective of this project was to extract valuable insights from the music store's data to inform decision-making and strategic planning. The project involved addressing a series of questions categorized based on difficulty level, ranging from easy to hard. Various SQL functions and techniques were employed to analyze the data and derive meaningful conclusions.
 Data Collection and Database Setup:
-•	The dataset was obtained from GitHub and comprised of 11 tables, including tables for customers, invoices, invoice line items, tracks, genres, artists, albums, and employees. 
+•	The dataset was obtained from GitHub and comprised 11 tables, including tables for customers, invoices, invoice line items, tracks, genres, artists, albums, and employees. 
 •	Using PostgreSQL, a relational database was created to store and organize the dataset efficiently.
 
-###Methodology: The analysis was conducted in three stages:
+### Methodology: The analysis was conducted in three stages:
               1.	Easy Questions:
-                        •	Identified the senior most employee based on job title.
+                        •	Identified the senior-most employee based on job title.
                         •	Determined the countries with the highest number of invoices.
                         •	Calculated the top three values of total invoices.
                         •	Identified the city with the best customers based on total invoice totals.
@@ -24,7 +24,7 @@ Data Collection and Database Setup:
 3.	Hard Questions:
 •	Calculated the amount spent by each customer on each artist.
 •	Determined the amount spent by each customer on the best-selling artist.
-•	Identified the most popular music genre for each country based on total spent.
+•	Identified the most popular music genre for each country based on the total spent.
 •	Identified the most popular music genre for each country based on the number of purchases.
 •	Determined the customer that has spent the most on music for each country.
 Analyzing the questions presented provides valuable insights that can benefit the music store's business in several ways:
@@ -35,7 +35,7 @@ Analyzing the questions presented provides valuable insights that can benefit th
 •	Identifying the City with the Best Customers: Recognizing the city with the best customers based on total invoice totals allows for targeted promotional campaigns and customer engagement initiatives in that area.
 •	Determining the Best Customer Based on Total Expenditure: Identifying the best customer based on total expenditure helps in cultivating customer loyalty and personalized service, potentially leading to repeat business and positive word-of-mouth referrals.
 2. Moderate Questions:
-•	Retrieving Information of Rock Music Listeners: Understanding the demographics of rock music listeners aids in tailoring marketing campaigns and promotions to target this specific audience segment effectively.
+•	Retrieving Information about Rock Music Listeners: Understanding the demographics of rock music listeners aids in tailoring marketing campaigns and promotions to target this specific audience segment effectively.
 •	Identifying Top 10 Rock Bands: Knowing the top 10 rock bands based on track count enables strategic partnerships and collaborations with these bands for exclusive releases or events, attracting fans and boosting sales.
 •	Retrieving Tracks with Above-Average Length: Identifying tracks with above-average length allows for curated playlists and promotions, catering to customer preferences and enhancing the overall listening experience.
 •	Determining Top 10 Selling Artists: Recognizing the top 10 selling artists based on total sales guides decisions regarding artist promotions, concert bookings, and merchandise sales, maximizing revenue opportunities.
