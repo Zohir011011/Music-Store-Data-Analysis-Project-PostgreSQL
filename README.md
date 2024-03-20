@@ -40,21 +40,34 @@ Data Collection and Database Setup:
 
 #### Analyzing the questions presented provides valuable insights that can benefit the music store's business in several ways:
               1. Easy Questions:
-                        •	Identifying the Senior Most Employee: Recognizing the senior-most employee based on job title helps in acknowledging experience and expertise within the organization, fostering a culture of respect and mentorship.
-                        •	Determining Countries with the Highest Number of Invoices: Understanding which countries generate the highest number of invoices enables targeted marketing efforts and resource allocation to maximize sales potential in those regions.
-                        •	Calculating Top Three Values of Total Invoices: Identifying the top three values of total invoices highlights revenue hotspots, guiding strategic decisions such as inventory management and pricing strategies.
-                        •	Identifying the City with the Best Customers: Recognizing the city with the best customers based on total invoice totals allows for targeted promotional campaigns and customer engagement initiatives in that area.
-                        •	Determining the Best Customer Based on Total Expenditure: Identifying the best customer based on total expenditure helps in cultivating customer loyalty and personalized service, potentially leading to repeat business and positive word-of-mouth referrals.
+                        •	Identifying the Senior Most Employee: Recognizing the senior-most employee based on job title helps 
+                        in acknowledging experience and expertise within the organization, fostering a culture of respect and mentorship.
+                        •	Determining Countries with the Highest Number of Invoices: Understanding which countries generate the highest number of 
+                        invoices enables targeted marketing efforts and resource allocation to maximize sales potential in those regions.
+                        •	Calculating Top Three Values of Total Invoices: Identifying the top three values of total invoices highlights 
+                        revenue hotspots, guiding strategic decisions such as inventory management and pricing strategies.
+                        •	Identifying the City with the Best Customers: Recognizing the city with the best customers based on total 
+                        invoice totals allows for targeted promotional campaigns and customer engagement initiatives in that area.
+                        •	Determining the Best Customer Based on Total Expenditure: Identifying the best customer based on total expenditure helps in 
+                        cultivating customer loyalty and personalized service, potentially leading to repeat business and positive word-of-mouth referrals.
               2. Moderate Questions:
-                        •	Retrieving Information about Rock Music Listeners: Understanding the demographics of rock music listeners aids in tailoring marketing campaigns and promotions to target this specific audience segment effectively.
-                        •	Identifying Top 10 Rock Bands: Knowing the top 10 rock bands based on track count enables strategic partnerships and collaborations with these bands for exclusive releases or events, attracting fans and boosting sales.
-                        •	Retrieving Tracks with Above-Average Length: Identifying tracks with above-average length allows for curated playlists and promotions, catering to customer preferences and enhancing the overall listening experience.
-                        •	Determining Top 10 Selling Artists: Recognizing the top 10 selling artists based on total sales guides decisions regarding artist promotions, concert bookings, and merchandise sales, maximizing revenue opportunities.
+                        •	Retrieving Information about Rock Music Listeners: Understanding the demographics of rock music listeners aids in tailoring 
+                        marketing campaigns and promotions to target this specific audience segment effectively.
+                        •	Identifying Top 10 Rock Bands: Knowing the top 10 rock bands based on track count enables strategic partnerships and 
+                        collaborations with these bands for exclusive releases or events, attracting fans and boosting sales.
+                        •	Retrieving Tracks with Above-Average Length: Identifying tracks with above-average length allows for curated playlists 
+                        and promotions, catering to customer preferences and enhancing the overall listening experience.
+                        •	Determining Top 10 Selling Artists: Recognizing the top 10 selling artists based on total sales guides decisions 
+                        regarding artist promotions, concert bookings, and merchandise sales, maximizing revenue opportunities.
               3. Hard Questions:
-                        •	Calculating Customer Spend on Each Artist: Understanding how much customers spend on each artist helps in artist management, tour planning, and concert promotion, optimizing revenue streams and artist collaborations.
-                        •	Determining Customer Spend on Best-Selling Artist: Knowing how much customers spend on the best-selling artist aids in targeted marketing campaigns and personalized offers, driving sales and customer engagement.
-                        •	Identifying Popular Music Genres by Country: Understanding the most popular music genres by country assists in playlist curation, concert planning, and market segmentation, ensuring tailored offerings to meet customer preferences.
-                        •	Determining Customer with Highest Spend per Country: Recognizing the customer that has spent the most on music in each country facilitates targeted marketing efforts, loyalty programs, and VIP treatment, fostering customer loyalty and retention.
+                        •	Calculating Customer Spend on Each Artist: Understanding how much customers spend on each artist helps in 
+                        artist management, tour planning, and concert promotion, optimizing revenue streams and artist collaborations.
+                        •	Determining Customer Spend on Best-Selling Artist: Knowing how much customers spend on the best-selling artist aids 
+                        in targeted marketing campaigns and personalized offers, driving sales and customer engagement.
+                        •	Identifying Popular Music Genres by Country: Understanding the most popular music genres by country assists in playlist curation, 
+                        concert planning, and market segmentation, ensuring tailored offerings to meet customer preferences.
+                        •	Determining Customer with Highest Spend per Country: Recognizing the customer that has spent the most on music in each country 
+                        facilitates targeted marketing efforts, loyalty programs, and VIP treatment, fostering customer loyalty and retention.
 
 
 
