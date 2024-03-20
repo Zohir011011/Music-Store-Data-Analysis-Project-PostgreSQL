@@ -76,7 +76,8 @@ Through comprehensive data analysis using PostgreSQL, valuable insights were der
 
 
 ### Contact Information: 
-For inquiries or collaborations, please reach out via # zohirulislamjewel.bd@gmailcom
+For inquiries or collaborations, please reach out via 
+## zohirulislamjewel.bd@gmail.com
 
 
 ### Disclaimer: 
