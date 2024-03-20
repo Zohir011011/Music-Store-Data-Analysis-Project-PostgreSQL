@@ -1,4 +1,4 @@
-                                             # Project Title: Music Store Data Analysis
+                                             Project Title: Music Store Data Analysis
 
 ### Introduction: This project involved analyzing a music store's dataset obtained from GitHub. The dataset comprised 11 tables capturing various aspects of the music store's operations, including sales, customers, employees, artists, albums, and tracks. Using PostgreSQL, a relational database was created to store and manage the dataset efficiently.
 
